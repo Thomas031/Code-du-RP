@@ -4,39 +4,104 @@
 
 # ⚖️ Code du RP
 
-### 🇫🇷 Le portail officiel des textes et règlements Roleplay
+### 🇫🇷 Le portail officiel pour comprendre, apprendre et encadrer le Roleplay
 
 ---
 
 Bienvenue sur **Code du RP**,
-la plateforme de référence permettant de consulter facilement les lois, règlements et informations officielles d’un univers Roleplay.
+la plateforme de référence dédiée aux joueurs, citoyens et institutions Roleplay.
 
-Inspiré des plateformes institutionnelles françaises,
-Code du RP offre un accès simple, clair et organisé aux textes qui encadrent la vie RP.
+Un espace unique permettant de consulter les textes officiels RP, apprendre les bases du Roleplay et améliorer son expérience en jeu.
+
+Inspiré des plateformes institutionnelles françaises, Code du RP rassemble règles, connaissances et outils pédagogiques pour rendre le RP accessible à tous.
 
 ---
 
-## 📖 À propos
+# 📖 Notre mission
 
-**Code du RP** a pour objectif de regrouper au même endroit l’ensemble des documents importants nécessaires au bon fonctionnement d’un serveur RP.
-
-Une plateforme pensée pour :
+Rendre le Roleplay :
 
 <br>
 
-👤 **Citoyens**
+✅ **Plus simple à comprendre**
 
-🏛️ **Institutions**
+✅ **Plus accessible aux nouveaux joueurs**
 
-👮 **Services publics**
+✅ **Plus réaliste et immersif**
 
-🏢 **Entreprises**
-
-⚖️ **Professionnels du droit**
+✅ **Plus organisé pour les communautés**
 
 ---
 
-## 📚 Contenu disponible
+# 🎓 Apprendre le Roleplay
+
+Code du RP accompagne les joueurs dans leur progression grâce à un espace d’apprentissage complet.
+
+<br>
+
+📚 **Cours et guides RP**
+
+🎭 **Comprendre son personnage**
+
+💬 **Apprendre à créer des scènes réalistes**
+
+🧠 **Développer une logique RP**
+
+🤝 **Comprendre les interactions entre joueurs**
+
+🚫 **Éviter les erreurs fréquentes**
+
+---
+
+# 📘 Définitions RP
+
+Retrouvez un dictionnaire complet des termes utilisés en Roleplay :
+
+<br>
+
+🎭 **Roleplay (RP)**
+
+⚡ **No Fear RP**
+
+🧠 **Force RP**
+
+🔫 **Pain RP**
+
+👁️ **Metagaming**
+
+🎮 **Powergaming**
+
+💀 **Freekill**
+
+🚗 **Car Kill**
+
+📢 **HRP / IC**
+
+➕ Et bien d’autres notions importantes...
+
+---
+
+# 📝 Quiz & entraînement
+
+Testez vos connaissances avant de rejoindre une communauté RP.
+
+<br>
+
+❓ **Questions sur les règles RP**
+
+🎯 **Mises en situation**
+
+📊 **Évaluation de votre niveau**
+
+🏆 **Progression et amélioration**
+
+📚 **Révisions des notions essentielles**
+
+---
+
+# ⚖️ Codes et règlements RP
+
+Accédez facilement aux textes importants :
 
 <br>
 
@@ -46,61 +111,64 @@ Une plateforme pensée pour :
 
 🚗 **Code de la route RP**
 
-🏛️ **Textes gouvernementaux**
+🏛️ **Règlements gouvernementaux**
 
 📢 **Communiqués officiels**
 
-📋 **Règlements et procédures**
+📋 **Procédures administratives**
 
-🗂️ **Documents administratifs**
+🗂️ **Documents institutionnels**
 
 ---
 
-## ✨ Notre objectif
+# 🏛️ Une plateforme pour tous
 
-Rendre l’accès aux textes RP :
+Code du RP est pensé pour :
 
 <br>
 
-✅ **Plus simple**
+👤 **Nouveaux joueurs**
 
-✅ **Plus rapide**
+🎮 **Joueurs expérimentés**
 
-✅ **Plus réaliste**
+👮 **Services publics RP**
 
-✅ **Plus professionnel**
+🏢 **Entreprises RP**
+
+⚖️ **Métiers judiciaires**
+
+🏛️ **Gouvernements RP**
 
 ---
 
-Code du RP permet de renforcer l’immersion RP en proposant une expérience proche d’un véritable service officiel.
+# ✨ Notre vision
 
----
-
-## 🏛️ Une approche institutionnelle
+Créer une référence RP complète combinant :
 
 <br>
 
-🇫🇷 **Style officiel**
+📚 **L’apprentissage**
 
-🔎 **Recherche simplifiée**
+⚖️ **La réglementation**
 
-📑 **Organisation claire des documents**
+🎓 **La formation**
 
-💻 **Compatible ordinateur & mobile**
+🎮 **Le plaisir de jouer**
 
 ---
 
-## ⚠️ Information
+# ⚠️ Information
 
-Code du RP est un projet communautaire destiné au **Roleplay**.
+Code du RP est un projet communautaire créé pour améliorer l’expérience Roleplay.
 
 Il n’est affilié à aucun organisme gouvernemental réel.
-Les textes présents concernent uniquement un univers fictif.
+
+Les documents et textes disponibles sont uniquement destinés à des univers fictifs.
 
 ---
 
 # ⚖️ Code du RP
 
-### *La référence juridique de votre univers Roleplay*
+### *Comprendre • Apprendre • Jouer*
 
 </div>
