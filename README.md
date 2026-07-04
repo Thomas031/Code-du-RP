@@ -167,7 +167,7 @@ Les documents et textes disponibles sont uniquement destinés à des univers fic
 
 ---
 
-📜 Licence
+# 📜 Licence
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png" width="140">
 
