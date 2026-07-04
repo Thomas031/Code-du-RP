@@ -169,6 +169,8 @@ Les documents et textes disponibles sont uniquement destinés à des univers fic
 
 # 📜 Licence
 
+<br>
+
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png" width="140">
 
 CC BY-NC-ND 4.0 International
