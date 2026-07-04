@@ -167,6 +167,30 @@ Les documents et textes disponibles sont uniquement destinés à des univers fic
 
 ---
 
+📜 Licence
+
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png" width="140">
+
+CC BY-NC-ND 4.0 International
+
+Le projet Code du RP est distribué sous licence
+Creative Commons Attribution - Pas d’Utilisation Commerciale - Pas de Modification 4.0
+
+🔗 https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr
+
+<br>
+
+👤 BY — Attribution obligatoire
+Merci de créditer le projet original.
+
+💸 NC — Non commercial
+Toute utilisation commerciale est interdite.
+
+🔒 ND — Pas de modification
+Aucune version modifiée ne peut être redistribuée.
+
+---
+
 # ⚖️ Code du RP
 
 ### *Comprendre • Apprendre • Jouer*
